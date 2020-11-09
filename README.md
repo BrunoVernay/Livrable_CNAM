@@ -1,8 +1,8 @@
 # Libram 1 // CNAM [2020]
 ### By RISDORFER Quentin
 
-> - Introduction et inventaire matériel de l'entreprise
-> - Description de l'environnement de travail
+- Introduction et inventaire matériel de l'entreprise
+- Description de l'environnement de travail
 
 | Version | date | Add |
 |--------|--------|--------|
