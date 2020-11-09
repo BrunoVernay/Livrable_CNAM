@@ -2,7 +2,7 @@
 ### By RISDORFER Quentin
 
 > - Introduction et inventaire matériel de l'entreprise
-> - Description de l'environnement de travail
+- Description de l'environnement de travail
 
 | Version | date | Add |
 |--------|--------|--------|
@@ -36,8 +36,14 @@ Solutions :
 
 ## 3. Work environment
 
-
-
+##### Electropole Scheinder at Grenoble
+* Horraires
+* Utilisation d'un badge d'accès
+* Confidentialité
+* Access / Parking
+* Work security
+* Services
+* ecology
 ## 4. Company's material inventory
 
 ## 5. Conclusion
