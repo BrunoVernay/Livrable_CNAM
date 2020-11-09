@@ -1,8 +1,6 @@
 # Libram 1 // CNAM [2020]
 ### By RISDORFER Quentin
 
-![Logo CNAM](https://www.cnam-occitanie.fr/uas/occitanie/LOGO/logos-occitanie-2xres.png)
-
 > - Introduction et inventaire matériel de l'entreprise
 - Description de l'environnement de travail
 
@@ -50,10 +48,12 @@ Solutions :
 
 ## 5. Conclusion
 
+---
+
 ### External Links
 
 [Site officiel Scheinder Electric](https://www.se.com/fr/fr/)
 
-[Site officiel du CNAM](https://www.cnam.fr/)
+[Site officiel du CNAM Occitanie](https://www.cnam-occitanie.fr/)
 
 [Licence L3 cybersécurité [PDF]](https://www.cnam-occitanie.fr/medias/fichier/cnam-occitanie-l3-informatique-generale-et-certificat-analyste-en-cybersecurite-alternance-20202021_1591364344259-pdf?ID_FICHE=1084991&INLINE=FALSE)
