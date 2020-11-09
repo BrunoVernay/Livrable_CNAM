@@ -2,7 +2,7 @@
 ### By RISDORFER Quentin
 
 > - Introduction et inventaire matériel de l'entreprise
-- Description de l'environnement de travail
+> - Description de l'environnement de travail
 
 | Version | date | Add |
 |--------|--------|--------|
