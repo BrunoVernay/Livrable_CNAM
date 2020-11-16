@@ -1,8 +1,14 @@
-# Libram 1 // CNAM [2020]
+# Livrable 1 // CNAM [2020]
 ### By RISDORFER Quentin
+<p>
 
-- Introduction et inventaire matériel de l'entreprise
-- Description de l'environnement de travail
+**Formation :** L3 cybersécurité - CNAM occitanie
+
+**Entreprise :** Schneider-Electric
+
+**Tuteur d'entreprise :** VERNAY Bruno
+
+**Tuteur de formation:** ???
 
 | Version | date | Add |
 |--------|--------|--------|
@@ -19,7 +25,7 @@
 
 **3. Work environment**
 
-**4. Company's material inventory**
+**4. My missions**
 
 **5. Conclusion**
 
@@ -99,22 +105,33 @@ Ce dernier révèle les engagements ainsi que la contribution aux objectifs de d
 ## 3. Work environment
 
 #### Electropole Schneider at Grenoble
-* Horraires
+<p>
+
+* **Horraires / Télétravail**
+
+Mon trajet de mon domicile jusqu'à l'entreprise est de 5 minutes en voiture. J'arrive en entreprise à 8h30. Je mange au self de l'entreprise aux alentours de midi pour reprendre le travail vers 13h00. Je termine ma journée à 17h00.
+
+Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaque vendredi afin de limiter le contact avec d'autres personnes.
 
 
+* **Matériel**
 
-* Confidentialité
+Pour mener à bien mon apprentissage, l'entreprise me fournit un ordinateur  portable. Nous avons la possibilité de brancher notre ordinateur sur un deuxième écran disponible sur les tables de l'open-space.
 
+* **ecology**
 
+bla
 
-* Services
+## 4. My missions
 
+Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses technologies sont présente sur mon [github](https://github.com/ElPoulpi) afin de garder une trace écrite de mes connaissances acquise lors de mon apprentissage. Nous traiterons mes missions aux travers de ces répôts.
 
+* **LSM_Yocto**
 
-* ecology
+* **Trust_zone_ARM**
 
+* **Zero_Touch_Provisionning**
 
-## 4. Company's material inventory
 
 ## 5. Conclusion
 
@@ -135,3 +152,5 @@ Ce dernier révèle les engagements ainsi que la contribution aux objectifs de d
 [17 objectifs de développement durable des Nations Unies](https://fr.wikipedia.org/wiki/Objectifs_de_d%C3%A9veloppement_durable)
 
 [développement Durable Schneider-Electric](https://www.se.com/ww/fr/about-us/sustainability/)
+
+[Github personnel](https://github.com/ElPoulpi)
