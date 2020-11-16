@@ -14,7 +14,7 @@
 |--------|--------|--------|
 | 0.1 | 09/11/2020 | Structure |
 | 0.2 | 12/11/2020 | About S.E |
-| 0.3 | 16/11/2020 | Add Introduction |
+| 0.3 | 16/11/2020 | Add Text |
 
 
 ## Summary
@@ -128,12 +128,21 @@ Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses t
 
 * **LSM_Yocto**
 
+*Documentation / Apprentissage concernant les modules de sécurité Linux (LSM) et l'utilisation de Yocto pour la création d'images*
+
 * **Trust_zone_ARM**
+
+*Isolation hardware qui permet d'avoir un environnement 'non-secure' et un environnement 'secure' afin de protéger les données sensibles et les applications critiques.*
 
 * **Zero_Touch_Provisionning**
 
+*Sujet prometteur basé sur le principe du zero touch provisionning, CAD le device s'installe et se configure en fonction du besoin directement et automatiquement après sa mise en route chez le client*
 
 ## 5. Conclusion
+
+Ma première expérience dans le monde du travail au sein de Schneide-Electric m'a conforté dans mon envie d'évoluer dans le domaine de la cybersécurité. Cette mise en application montre que ce domaine est indispensable dans la majorité des projets informatiques. L'équipe dans laquelle j'évolue m'a très vite intégrée et m'a proposé plusieurs possibilités de travaux afin d'approfondir mes connaissances et mettre en pratique ce que j'ai appris. 
+
+Au travers de ces premiers mois chez Schneider-Electric j'ai acquis de l'autonomie, de la maturité et des compétences dans mon domaine d'activité. Je suis ravi de continuer à m'épanouir professionnellement chez eux.
 
 ---
 
