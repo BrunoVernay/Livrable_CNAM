@@ -107,7 +107,7 @@ Ce dernier révèle les engagements ainsi que la contribution aux objectifs de d
 #### Electropole Schneider at Grenoble
 <p>
 
-* **Horraires / Télétravail**
+* **Horaires / Télétravail**
 
 Mon trajet de mon domicile jusqu'à l'entreprise est de 5 minutes en voiture. J'arrive en entreprise à 8h30. Je mange au self de l'entreprise aux alentours de midi pour reprendre le travail vers 13h00. Je termine ma journée à 17h00.
 
