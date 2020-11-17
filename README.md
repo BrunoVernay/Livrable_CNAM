@@ -107,6 +107,10 @@ Ce dernier révèle les engagements ainsi que la contribution aux objectifs de d
 #### Electropole Schneider at Grenoble
 <p>
 
+* **Secteur d'activité**
+
+L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider. Que ce soit sur la couche Hardware, Software ou encore le réseau, il ya un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci :j'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
+
 * **Horaires / Télétravail**
 
 Mon trajet de mon domicile jusqu'à l'entreprise est de 5 minutes en voiture. J'arrive en entreprise à 8h30. Je mange au self de l'entreprise aux alentours de midi pour reprendre le travail vers 13h00. Je termine ma journée à 17h00.
@@ -116,11 +120,8 @@ Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaqu
 
 * **Matériel**
 
-Pour mener à bien mon apprentissage, l'entreprise me fournit un ordinateur  portable. Nous avons la possibilité de brancher notre ordinateur sur un deuxième écran disponible sur les tables de l'open-space.
+Pour mener à bien mon apprentissage, l'entreprise me fournit un ordinateur portable. Nous avons la possibilité de brancher notre ordinateur sur un deuxième écran disponible sur les tables de l'open-space. Je peux demander des outils particuliers afin de mener à bien mon travail. Nous pouvons nous isoler dans des bulles si cela est possible et nous avons différentes salles de réunion pour se regrouper.
 
-* **ecology**
-
-bla
 
 ## 4. My missions
 
@@ -140,7 +141,7 @@ Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses t
 
 ## 5. Conclusion
 
-Ma première expérience dans le monde du travail au sein de Schneide-Electric m'a conforté dans mon envie d'évoluer dans le domaine de la cybersécurité. Cette mise en application montre que ce domaine est indispensable dans la majorité des projets informatiques. L'équipe dans laquelle j'évolue m'a très vite intégrée et m'a proposé plusieurs possibilités de travaux afin d'approfondir mes connaissances et mettre en pratique ce que j'ai appris. 
+Ma première expérience dans le monde du travail au sein de Schneide-Electric m'a conforté dans mon envie d'évoluer dans le domaine de la cybersécurité. Cette mise en application montre que ce domaine est indispensable dans la majorité des projets informatiques. L'équipe dans laquelle j'évolue m'a très vite intégrée et m'a proposé plusieurs possibilités de travaux afin d'approfondir mes connaissances et mettre en pratique ce que j'ai appris.
 
 Au travers de ces premiers mois chez Schneider-Electric j'ai acquis de l'autonomie, de la maturité et des compétences dans mon domaine d'activité. Je suis ravi de continuer à m'épanouir professionnellement chez eux.
 
