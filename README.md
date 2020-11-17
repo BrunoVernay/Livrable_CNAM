@@ -131,7 +131,7 @@ Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses t
 
 *Documentation / Apprentissage concernant les modules de sécurité Linux (LSM) et l'utilisation de Yocto pour la création d'images*
 
-Ce sujet est très vaste et très important. L'utilisation de Yocto permet de créer des images pour les implanter dans des solutions hardware embarqué. Une fois l'outil maîtrisé, il me faut prendre connaissance des solutions de sécurité Linux, appelées LSM (Linux Security Module), afin de renforcer l'aspect sécurité du produit fini.
+Ce sujet est très vaste et très important. L'utilisation de Yocto permet de créer des images pour les implanter dans des solutions hardware embarqué. Une fois l'outil maîtrisé, il me faut prendre connaissance des solutions de sécurité Linux, appelées LSM (Linux Security Module), afin de renforcer l'aspect sécurité de l'image dans le produit final.
 
 * **Trust_zone_ARM**
 
