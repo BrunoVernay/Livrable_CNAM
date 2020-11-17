@@ -131,13 +131,19 @@ Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses t
 
 *Documentation / Apprentissage concernant les modules de sécurité Linux (LSM) et l'utilisation de Yocto pour la création d'images*
 
+Ce sujet est très vaste et très important. L'utilisation de Yocto permet de créer des images pour les implanter dans des solutions hardware embarqué. Une fois l'outil maîtrisé, il me faut prendre connaissance des solutions de sécurité Linux, appelées LSM (Linux Security Module), afin de renforcer l'aspect sécurité du produit fini.
+
 * **Trust_zone_ARM**
 
 *Isolation hardware qui permet d'avoir un environnement 'non-secure' et un environnement 'secure' afin de protéger les données sensibles et les applications critiques.*
 
+C'est un sujet actuellement traité dans l'équipe. Il est important que je prenne connaissance de cette technologie afin d'interragir avec les personnes travaillant dessus et pour pouvoir à mon tour comprendre et apporter des solutions de sécurité.
+
 * **Zero_Touch_Provisionning**
 
 *Sujet prometteur basé sur le principe du zero touch provisionning, CAD le device s'installe et se configure en fonction du besoin directement et automatiquement après sa mise en route chez le client*
+
+Cette partie est de la prise de connaissances sur le sujet. Le but étant un jour de le présenter comme solution si l'on vient à se pencher dessus dans l'équipe.
 
 ## 5. Conclusion
 
