@@ -107,6 +107,10 @@ Ce dernier révèle les engagements ainsi que la contribution aux objectifs de d
 #### Electropole Schneider at Grenoble
 <p>
 
+* **Organisation**
+
+L'accès au site est possible du lundi au vendredi, de 6h55 à 20h30 via le parking du personnel. Différents services sont présent sur le site comme un restaurant, un acceuil et point relais ou encore une salle de sport et des vestiaires.
+
 * **Secteur d'activité**
 
 L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider. Que ce soit sur la couche Hardware, Software ou encore le réseau, il ya un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci :j'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
