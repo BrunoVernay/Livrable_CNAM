@@ -36,7 +36,7 @@
 
 ## 1. Introduction
 
-Ce document est un rapport de présentation de l'entreprise Schneider-Electric, entreprise dans laquelle je travaille en alternance en tant que technicien informatique en cybersécurité.
+Ce document est un rapport de présentation de l'entreprise Schneider-Electric, entreprise dans laquelle je travaille en alternance en tant qu'alternant ingénieur informatique en cybersécurité.
 
 Nous présenterons dans un premier temps l'entreprise, son histoire, ses domaines d'activités ainsi que sa responsabilité par rapport à l'environnement et le bien-être de ses employés.
 
@@ -48,23 +48,18 @@ Nous conclurons enfin sur l'intérêt que je porte à l'entreprise et les projet
 
 #### History :
 
-Schneider Electric a été créé par les deux frères Eugène Schneider et Adolphe Schneider en France sous le nom de Schneider et Cie.
-Au début cette entreprise exploitait les mines de charbon de Creusot en Saône-et-Loire.
-Elle était spécialisée dans la production d'acier pour la construction navale, les chemins de fer et l'armement.
+Schneider Electric a été créé par les deux frères Eugène Schneider et Adolphe Schneider en France sous le nom de Schneider et Cie. Au début, cette entreprise exploitait les mines de charbon de Creusot en Saône-et-Loire. Elle était spécialisée dans la production d'acier pour la construction navale, les chemins de fer et l'armement.
 
 En 1918, Schneider se lance dans le domaine de l'électricité tout en continuant ses activités dans les autres domaines.
 
-Puis vers 1980, une période difficile pour l'entreprise, elle décide de se séparer de ses autres activités pour se recentrer dans le domaine de la gestion de l'électricité.
+Puis vers 1980, une période difficile pour l'entreprise, elle décide de se séparer de ses autres activités pour se recentrer dans le domaine de la gestion de l'électricité. L'arrivée de nouveaux fonds dans la société vers la fin des années 80 permit à Schneider de s'étendre via le rachat d'entreprises comme Télémécanique, Square D, Merlin Gerin ou encore Modicon.
 
-L'arrivée de nouveaux fonds dans la société vers la fin des années 80 permit à Schneider de s'étendre via le rachat d'entreprises comme Télémécanique, Square D, Merlin Gerin ou encore Modicon.
-Ce n'est qu'en 1999 que la firme se renomme Schneider Electric, nom que qu'elle a conservé jusqu'à aujourd'hui, ce qui montre son intérêt pour l'électricité.
+Ce n'est qu'en 1999 que la firme se renomme Schneider Electric, nom qu'elle a conservé jusqu'à aujourd'hui, ce qui montre son intérêt pour l'électricité.
 
-Depuis les années 2000, Schneider Electric connaît une forte croissance externe.
-Entre 2004 et 2014, c'est plus de 130 entreprises rachetées, pour un total de 15 milliards d'euros.
-La société est en forte croissance avec un chiffre d'affaires de plus de 25 milliards d'euros en 2018.
-C'est aussi 140 000 employés répartis dans plus de 100 pays différents, dont 49 000 en Europe.
+Depuis les années 2000, Schneider Electric connaît une forte croissance externe. Entre 2004 et 2014, c'est plus de 130 entreprises rachetées, pour un total de 15 milliards d'euros. La société est en forte croissance avec un chiffre d'affaires de plus de 25 milliards d'euros en 2018. C'est aussi 140 000 employés répartis dans plus de 100 pays différents, dont 49 000 en Europe.
 
 Actuellement, Schneider Electric développe toujours son activité dans le domaine de l'électricité. Elle se focalise maintenant sur la distribution électrique et les automates.
+
 
 #### Impact :
 
@@ -81,10 +76,10 @@ Actuellement, Schneider Electric développe toujours son activité dans le domai
 
 ![image](/Images/SE_business_world.png)
 
-Schneider Electric est une entreprise internationale, connue dans le monde entier.
-Comme l'illustre la carte ci-dessus, cette entreprise vend dans le monde entier ses produits; particulièrement dans l'hémisphère nord.
+Schneider Electric est une entreprise internationale, connue dans le monde entier. Comme l'illustre la carte ci-dessus, cette entreprise vends dans le monde entier ses produits ; particulièrement dans l'hémisphère nord.
 
-L’entreprise est aussi une actrice majeure dans le développement des techniques futures puisqu'elle investit environ 6% de son chiffre d’affaires en recherche et développement.
+L’entreprise est aussi une actrice majeure dans le développement des techniques futures puisqu'elle investit environ 6 % de son chiffre d’affaires en recherche et développement.
+
 Le principal centre d’innovation se trouve à Grenoble, plus précisément à Eybens, dans le site d'Electropole.
 
 #### responsabilités :
@@ -122,21 +117,24 @@ Marc CHECHEREAU (Global Technology Organization, VP)
 
 Laurent DEPEISSES (Embedded Software, Technical Manager)
 
-Me
+Quentin RISDORFER (moi)
 
-Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom **Technology Actions**. Elle se situe dans **Energy Management** dans le secteur **Global Technology**
+Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom **Technology Actions**. Elle se situe dans **Energy Management** dans le secteur **Global Technology**.
 
 <ins>**Organigramme des pôles d'activités :**</ins>
 
 ![Organigramme](Images/organi.PNG)
 
-L'accès au site est possible du lundi au vendredi, de 6h55 à 20h30 via le parking du personnel. Différents services sont présent sur le site comme un restaurant, un acceuil et point relais ou encore une salle de sport et des vestiaires.
 
 * **Secteur d'activité**
 
-L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider. Que ce soit sur la couche Hardware, Software ou encore le réseau, il y a un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci. J'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
+L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider.
+
+Que ce soit sur la couche Hardware, Software ou encore le réseau, il y a un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci. J'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
 
 * **Horaires / Télétravail**
+
+L'accès au site est possible du lundi au vendredi, de 6h55 à 20h30 via le parking du personnel. Différents services sont présent sur le site comme un restaurant, un acceuil et point relais ou encore une salle de sport et des vestiaires.
 
 Mon trajet de mon domicile jusqu'à l'entreprise est de 5 minutes en voiture. J'arrive en entreprise à 8h30. Je mange au self de l'entreprise aux alentours de midi pour reprendre le travail vers 13h00. Je termine ma journée à 17h00.
 
