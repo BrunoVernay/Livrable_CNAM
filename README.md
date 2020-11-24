@@ -124,7 +124,7 @@ Laurent DEPEISSES (Embedded Software, Technical Manager)
 
 Me
 
-Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom "Technology Actions". Elle se situe dans "Energy Management" dans le secteur "Global Technology" dans la branche "Connected Device".
+Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom **Technology Actions**. Elle se situe dans **Energy Management** dans le secteur **Global Technology**
 
 <ins>**Organigramme des pôles d'activités :**</ins>
 
