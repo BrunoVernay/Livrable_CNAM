@@ -110,8 +110,6 @@ Ce dernier révèle les engagements ainsi que la contribution aux objectifs de d
 
 * **Organisation**
 
-Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom "Technology Actions". Elle se situe dans "Energy Management" dans le secteur "Global Technology" dans la branche "Connected Device".
-
 **Organigramme de ma hiérarchie**
 
 Jean-Pascal TRICOIRE (Chief Executive Officer)
@@ -126,11 +124,17 @@ Laurent DEPEISSES (Embedded Software, Technical Manager)
 
 Me
 
+Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom "Technology Actions". Elle se situe dans "Energy Management" dans le secteur "Global Technology" dans la branche "Connected Device".
+
+<ins>**Organigramme des pôles d'activités :**</ins>
+
+![Organigramme](Images/organi.PNG)
+
 L'accès au site est possible du lundi au vendredi, de 6h55 à 20h30 via le parking du personnel. Différents services sont présent sur le site comme un restaurant, un acceuil et point relais ou encore une salle de sport et des vestiaires.
 
 * **Secteur d'activité**
 
-L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider. Que ce soit sur la couche Hardware, Software ou encore le réseau, il y a un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci :j'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
+L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider. Que ce soit sur la couche Hardware, Software ou encore le réseau, il y a un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci. J'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
 
 * **Horaires / Télétravail**
 
