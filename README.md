@@ -26,9 +26,11 @@
 
 **3. Work environment**
 
-**4. My missions**
+**4. Apprentissage**
 
-**5. Conclusion**
+**5. Missions**
+
+**6. Conclusion**
 
 **Annexe**
 
@@ -146,9 +148,9 @@ Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaqu
 Pour mener à bien mon apprentissage, l'entreprise me fournit un ordinateur portable. Nous avons la possibilité de brancher notre ordinateur sur un deuxième écran disponible sur les tables de l'open-space. Je peux demander des outils particuliers afin de mener à bien mon travail. Nous pouvons nous isoler dans des bulles si cela est possible et nous avons différentes salles de réunion pour se regrouper.
 
 
-## 4. My missions
+## 4. apprentissage
 
-Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses technologies sont présente sur mon [github](https://github.com/ElPoulpi) afin de garder une trace écrite de mes connaissances acquise lors de mon apprentissage. Nous traiterons mes missions aux travers de ces répôts.
+Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses technologies sont présente sur mon [github](https://github.com/ElPoulpi) afin de garder une trace écrite de mes connaissances acquise lors de mon apprentissage. Nous traiterons mes connaissances acquisent aux travers de ces répôts.
 
 * **LSM_Yocto**
 
@@ -168,7 +170,15 @@ C'est un sujet actuellement traité dans l'équipe. Il est important que je pren
 
 Cette partie est de la prise de connaissances sur le sujet. Le but étant un jour de le présenter comme solution si l'on vient à se pencher dessus dans l'équipe.
 
-## 5. Conclusion
+## 5. Missions
+
+* **Parenthèse d'analyse de qualité de code source**
+
+Une équipe doit choisir des solutions de programmation. On doit évaluer la qualité de ces solution via l'axe de la qualité du code source. Surtout d'un point de vu sécurité.
+
+<ins> Outils </ins>: Klockwork; SQuORE;
+
+## 6. Conclusion
 
 Ma première expérience dans le monde du travail au sein de Schneide-Electric m'a conforté dans mon envie d'évoluer dans le domaine de la cybersécurité. Cette mise en application montre que ce domaine est indispensable dans la majorité des projets informatiques. L'équipe dans laquelle j'évolue m'a très vite intégrée et m'a proposé plusieurs possibilités de travaux afin d'approfondir mes connaissances et mettre en pratique ce que j'ai appris.
 
