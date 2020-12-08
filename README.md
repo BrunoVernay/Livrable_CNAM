@@ -174,7 +174,9 @@ Cette partie est de la prise de connaissances sur le sujet. Le but étant un jou
 
 * **Parenthèse d'analyse de qualité de code source**
 
-Une équipe doit choisir des solutions de programmation. On doit évaluer la qualité de ces solution via l'axe de la qualité du code source. Surtout d'un point de vu sécurité.
+Une équipe doit choisir des solutions de programmation. On doit évaluer la qualité de ces solutions via l'axe de la qualité du code source. Surtout d'un point de vue sécurité.
+
+Je suis monté en compétence sur l'utilisation de SQuORE, un outil d'analyse de code statique.
 
 <ins> Outils </ins>: Klockwork; SQuORE;
 
