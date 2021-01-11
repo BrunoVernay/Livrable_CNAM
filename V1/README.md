@@ -125,7 +125,7 @@ Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom **Te
 
 <ins>**Organigramme des pôles d'activités :**</ins>
 
-![Organigramme](Images/organi.PNG)
+![Organigramme](/Images/organi.PNG)
 
 
 * **Secteur d'activité**
