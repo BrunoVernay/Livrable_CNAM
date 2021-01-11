@@ -8,18 +8,38 @@
 
 **Tuteur d'entreprise :** VERNAY Bruno
 
-**Tuteur de formation:** ???
+**Tuteur de formation:** VERDOIRE Eric
 
 | Version | date | Add |
 |--------|--------|--------|
 | 0.1 | 09/11/2020 | Structure |
 | 0.2 | 12/11/2020 | About S.E |
 | 0.3 | 16/11/2020 | Add Text |
-| 0.4 | 23/11/2020 | Re-stucturation |
+| 0.4 | 11/01/2021 | Re-stucturation |
 
+## Real Summary
+```
+**1. Le glossaire**
 
-## Summary
+**2. Les remerciements**
 
+**3. L'introduction**
+
+**4. Présentation de l'entreprise**
+
+**5. Le système d'information**
+
+**6. Votre mission.**
+
+**7. Conclusion**
+
+**8. Bibliographie**
+
+**9. Les annexes**
+```
+
+## Basic Summary
+```
 **1. Introduction**
 
 **2. About Schneider Electric**
@@ -35,7 +55,7 @@
 **Annexe**
 
 **Lien externe**
-
+```
 ## 1. Introduction
 
 Ce document est un rapport de présentation de l'entreprise Schneider-Electric, entreprise dans laquelle je travaille en alternance en tant qu'alternant ingénieur informatique en cybersécurité.
