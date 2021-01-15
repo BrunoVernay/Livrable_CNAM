@@ -106,7 +106,7 @@ L’entreprise est aussi une actrice majeure dans le développement des techniqu
 
 Le principal centre d’innovation se trouve à Grenoble, plus précisément à Eybens, dans le site d'Electropole.
 
-#### responsabilités :
+#### Responsabilités :
 
 Schneider-Electric prend position sur la transition vers une économie zéro carbone avec différentes actions:
 
@@ -254,6 +254,8 @@ Objectif à l'année qui peut se decomposer en 3 étapes:
 
 
 ## D. Annexes
+
+---
 ---
 
 # Abstract
