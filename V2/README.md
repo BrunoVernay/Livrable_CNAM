@@ -15,7 +15,7 @@
 | 0.5 | 15/01/2021 | True structuration |
 
 
-## Real Summary
+## Summary
 
 **A. Le glossaire**
 
@@ -31,7 +31,7 @@
 
 > **5. Conclusion**
 
-**C. Bibliographie**
+**C. Bibliographie - Sitographie**
 
 **D. Les annexes**
 
@@ -39,11 +39,24 @@
 
 ## A. Le glossaire
 
+**[Mot]**: [type]
+>[Description]
+
+**[Mot]**: [type]
+>[Description]
+
 ## B. Remerciement
+
+Je souhaite remercier particulièrement messieurs Bruno VERNAY, Laurent DEPEISSES et Julien MICHEL pour leur accompagnement et leurs conseils tout au long de cette période.
+Je souhaite remercier l’équipe *Global technologies* pour son accueil convivial et son aide.
+
+Je souhaite remercier madame Olivia SERENELLI-PESIN et monsieur Liam BOHRER pour m'avoir amenné à trouver cette alternance.
+
+Je souhaite enfin remercier monsieur Nicolas RAMBAUD pour l'apport d'informations complémentaires présent dans ce rapport.
 
 ---
 
-## 1. introduction
+## 1. Introduction
 
 Ce document est un rapport de présentation de l'entreprise Schneider-Electric, entreprise dans laquelle je travaille en alternance en tant qu'alternant ingénieur informatique en cybersécurité.
 
@@ -146,13 +159,82 @@ Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaqu
 
 ## 3. Le système d'information
 
+#### Architecture matérielle
+
+* Universel
+* Spécifique ( lié au bâtiment, aux équipes....)
+
+#### Architecture réseaux
+
+* Du Site
+* Des projets
+
+#### Architecture logicielle
+
+* Messagerie, communication, analyse
+* Utilité personnelle
+* Système d'exploitation
+
 ## 4. Mes missions
+
+
+#### Description du service
+
+L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider.
+
+Que ce soit sur la couche Hardware, Software ou encore le réseau, il y a un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci. J'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
+
+#### Apprentissage
+
+Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses technologies sont présente sur mon [github](https://github.com/ElPoulpi) afin de garder une trace écrite de mes connaissances acquise lors de mon apprentissage. Nous traiterons mes connaissances acquisent aux travers de ces répôts.
+
+* **LSM_Yocto**
+
+*Documentation / Apprentissage concernant les modules de sécurité Linux (LSM) et l'utilisation de Yocto pour la création d'images*
+
+Ce sujet est très vaste et très important. L'utilisation de Yocto permet de créer des images pour les implanter dans des solutions hardware embarqué. Une fois l'outil maîtrisé, il me faut prendre connaissance des solutions de sécurité Linux, appelées LSM (Linux Security Module), afin de renforcer l'aspect sécurité de l'image dans le produit final.
+
+* **Trust_zone_ARM**
+
+*Isolation hardware qui permet d'avoir un environnement 'non-secure' et un environnement 'secure' afin de protéger les données sensibles et les applications critiques.*
+
+C'est un sujet actuellement traité dans l'équipe. Il est important que je prenne connaissance de cette technologie afin d'interragir avec les personnes travaillant dessus et pour pouvoir à mon tour comprendre et apporter des solutions de sécurité.
+
+* **Zero_Touch_Provisionning**
+
+*Sujet prometteur basé sur le principe du zero touch provisionning, CAD le device s'installe et se configure en fonction du besoin directement et automatiquement après sa mise en route chez le client*
+
+Cette partie est de la prise de connaissances sur le sujet. Le but étant un jour de le présenter comme solution si l'on vient à se pencher dessus dans l'équipe.
+
+#### Missions
+
+* **Parenthèse d'analyse de qualité de code source**
+
+Une équipe doit choisir des solutions de programmation. On doit évaluer la qualité de ces solutions via l'axe de la qualité du code source. Surtout d'un point de vue sécurité et solidité du code.
+
+Je suis monté en compétence sur l'utilisation de SQuORE, un outil d'analyse de code statique.
+
+<ins> Outils </ins>: Klockwork; SQuORE;
+
+* **mettre en oeuvre SELinux sur la plateforme IOT Bridge**
+
+Objectif à l'année qui peut se decomposer en 3 étapes:
+
+1. SELinux sur Yocto
+* 1) prise en main
+* 2) Creation d'une demo simple (un attaque stopée par SELinux)
+
+2. Prise en main de la plateforme  IoT Bridge
+
+3. SELinux sur plateforme IoT Bridge
+* 1) Installation, configuration
+* 2) Creation d'une demo simple
 
 ## 5. Conclusion
 
 ---
 
-### External Links
+## C. Bibliographie - Sitographie
 
 [Site officiel Schneider Electric](https://www.se.com/fr/fr/)
 
@@ -170,6 +252,8 @@ Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaqu
 
 [Github personnel](https://github.com/ElPoulpi)
 
+
+## D. Annexes
 ---
 
 # Abstract
