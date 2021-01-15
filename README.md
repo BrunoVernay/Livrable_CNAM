@@ -5,6 +5,7 @@
 #### Livrable 1
 
 * **[V1](V1/README.md)**
+* **[V2](V2/README.md)**
 
 #### Livrable 2
 

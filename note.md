@@ -5,7 +5,7 @@
 - Activités [x]
 - Status [x]
 - Implantation géographique [x]
-- Nombre de salariés
+- **Nombre de salariés**
 - Histoire [x]
 - Organisation [x]
 ---
