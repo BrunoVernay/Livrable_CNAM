@@ -212,7 +212,21 @@ Cette partie est de la prise de connaissances sur le sujet. Le but étant un jou
 
 Une équipe doit choisir des solutions de programmation. On doit évaluer la qualité de ces solutions via l'axe de la qualité du code source. Surtout d'un point de vue sécurité et solidité du code.
 
-Je suis monté en compétence sur l'utilisation de SQuORE, un outil d'analyse de code statique.
+Je suis monté en compétence sur l'utilisation de SQuORE, des outils d'analyse de code statique.
+
+J'ai créé au fil de ma mission plusieurs feedbacks concernant l'interpretation des outils. Ces feedbacks se décomposent ainsi:
+
+V1 [27/11/2020]
+
+V2 [07/12/2020]
+
+V3 [11/12/2020]
+
+V4 [12/01/2021]
+
+V5 [14/01/2021]
+
+V6 [Work in progress]
 
 <ins> Outils </ins>: Klockwork; SQuORE;
 
@@ -231,6 +245,13 @@ Objectif à l'année qui peut se decomposer en 3 étapes:
 * 2) Creation d'une demo simple
 
 ## 5. Conclusion
+
+Ma première expérience dans le monde du travail au sein de Schneide-Electric m'a conforté dans mon envie d'évoluer dans le domaine de la cybersécurité. Cette mise en application montre que ce domaine est indispensable dans la majorité des projets informatiques.
+
+L'équipe dans laquelle j'évolue m'a très vite intégrée et m'a proposé plusieurs possibilités de travaux afin d'approfondir mes connaissances et mettre en pratique ce que j'ai appris. Les premiers retours sur mon travail semble indiquer que je suis sur la bonne voie.
+
+
+Au travers de ces premiers mois chez Schneider-Electric j'ai acquis de l'autonomie, de la maturité et des compétences dans mon domaine d'activité. Je suis ravi de continuer à m'épanouir professionnellement chez eux.
 
 ---
 
