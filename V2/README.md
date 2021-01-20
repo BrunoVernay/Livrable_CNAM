@@ -77,11 +77,11 @@ En 1918, Schneider se lance dans le domaine de l'électricité tout en continuan
 
 Puis vers 1980, une période difficile pour l'entreprise, elle décide de se séparer de ses autres activités pour se recentrer dans le domaine de la gestion de l'électricité. L'arrivée de nouveaux fonds dans la société vers la fin des années 80 permit à Schneider de s'étendre via le rachat d'entreprises comme Télémécanique, Square D, Merlin Gerin ou encore Modicon.
 
-Ce n'est qu'en 1999 que la firme se renomme Schneider Electric, nom qu'elle a conservé jusqu'à aujourd'hui, ce qui montre son intérêt pour l'électricité.
+Ce n'est qu'en 1999 que la firme se renomme Schneider Electric, nom qu'elle a conservé jusqu'à aujourd'hui et qui affirme son focus sur l'Energie électrique.
 
 Depuis les années 2000, Schneider Electric connaît une forte croissance externe. Entre 2004 et 2014, c'est plus de 130 entreprises rachetées, pour un total de 15 milliards d'euros. La société est en forte croissance avec un chiffre d'affaires de plus de 25 milliards d'euros en 2018. C'est aussi 140 000 employés répartis dans plus de 100 pays différents, dont 49 000 en Europe.
 
-Actuellement, Schneider Electric développe toujours son activité dans le domaine de l'électricité. Elle se focalise maintenant sur la distribution électrique et les automates.
+Actuellement, Schneider Electric développe toujours son activité dans le domaine de l'électricité. Elle se focalise sur la distribution électrique et les automates.
 
 #### Activité - statuts
 
@@ -134,7 +134,7 @@ Philippe DELORME (EVP Energy Management)
 
 Bruno ZERBIB ( Chief Technology & Digital Officier)
 
-Marc CHECHEREAU (Global Technology Organization, VP)
+Marc CHACHEREAU (Global Technology Organization, VP)
 
 Laurent DEPEISSES (Embedded Software, Technical Manager)
 
@@ -142,7 +142,7 @@ Quentin RISDORFER (moi)
 
 ---
 
-Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom **Technology Actions**. Elle se situe dans **Energy Management** dans le secteur **Global Technology**.
+Le directeur du site est Jean-Christophe Deschamps. Mon équipe a pour nom **Technology Actions**. Elle se situe dans **Energy Management** dans le secteur **Global Technology**.
 
 <ins>**Organigramme des pôles d'activités :**</ins>
 
@@ -150,9 +150,9 @@ Le directeur du site est Jean-Christophe Deschamps. Mon équipe à pour nom **Te
 
 #### Horaires / Télétravail
 
-L'accès au site est possible du lundi au vendredi, de 6h55 à 20h30 via le parking du personnel. Différents services sont présent sur le site comme un restaurant, un acceuil et point relais ou encore une salle de sport et des vestiaires.
+L'accès au site est possible du lundi au vendredi, de 6h55 à 20h30 via le parking du personnel. Différents services sont présent sur le site comme un restaurant, un acceuil et point relais ou encore une salle de sport, des vestiaires et une bibliothèque.
 
-Mon trajet de mon domicile jusqu'à l'entreprise est de 5 minutes en voiture. J'arrive en entreprise à 8h30. Je mange au self de l'entreprise aux alentours de midi pour reprendre le travail vers 13h00. Je termine ma journée à 17h00.
+Le trajet de mon domicile jusqu'à l'entreprise est de 5 minutes en voiture. J'arrive en entreprise à 8h30. Je mange au self de l'entreprise aux alentours de midi pour reprendre le travail vers 13h00. Je termine ma journée à 17h00.
 
 Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaque vendredi afin de limiter le contact avec d'autres personnes.
 
@@ -162,7 +162,7 @@ Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaqu
 #### Architecture matérielle
 
 * Universel
-* Spécifique ( lié au bâtiment, aux équipes....)
+* Spécifique ( lié au bâtiment, aux équipes ...)
 
 #### Architecture réseaux
 
@@ -180,13 +180,13 @@ Dans le cadre de la crise du Covid-19, j'effectue un jour de télétravail chaqu
 
 #### Description du service
 
-L'équipe que j'ai intégrée est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour la réception et la gestion de données sur différents produits Schneider.
+L'équipe que j'ai intégré est composée d'une cinquantaine de personnes réparties dans le monde (France, Chine, Inde). L'objectif de cette équipe est de travailler sur la recherche et le développement de nouvelles technologies afin de créer ou d'améliorer plusieurs produits Schneider. Globalement, nous travaillons sur la mise en place de systèmes embarqués pour l'agrégation et la gestion de données de différents produits Schneider.
 
 Que ce soit sur la couche Hardware, Software ou encore le réseau, il y a un aspect cybersécurité de la conception de la solution jusqu'au déploiement de celle-ci. J'ai donc un grand choix de sujets en rapport avec la sécurité sur lesquel me pencher.
 
 #### Apprentissage
 
-Toutes les connaissances en rapport aux travaux et l'apprentissage de diverses technologies sont présente sur mon [github](https://github.com/ElPoulpi) afin de garder une trace écrite de mes connaissances acquise lors de mon apprentissage. Nous traiterons mes connaissances acquisent aux travers de ces répôts.
+Toutes les connaissances en rapport aux travaux et les diverses technologies sont présente sur mon [github](https://github.com/ElPoulpi) afin de garder une trace écrite de mon apprentissage. Nous traiterons mon acquisition de connaissances aux travers de ces répôts.
 
 * **LSM_Yocto**
 
@@ -210,7 +210,7 @@ Cette partie est de la prise de connaissances sur le sujet. Le but étant un jou
 
 * **Parenthèse d'analyse de qualité de code source**
 
-Une équipe doit choisir des solutions de programmation. On doit évaluer la qualité de ces solutions via l'axe de la qualité du code source. Surtout d'un point de vue sécurité et solidité du code.
+Une équipe doit choisir des solutions de programmation. On doit évaluer la qualité de ces solutions via l'axe de la qualité du code source. Surtout d'un point de vue sécurité et robustesse du code.
 
 Je suis monté en compétence sur l'utilisation de SQuORE, des outils d'analyse de code statique.
 
